@@ -4,7 +4,11 @@
 int main(int argc, char **argv){
 
     printf("Sagun Karki ! \n");
+    printf("Computer Science\n\n");
+
+    printf("iris pudasaini! \n");
     printf("Computer Science\n");
+
 
     return 0;
 }
